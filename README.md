@@ -1,5 +1,4 @@
-### Hi There I'm Jonak 👋
-
+<h2>Hi There I'm Jonak 👋</h2>
 - 🔭 I’m currently working on [YouTube](https://www.youtube.com/)
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [Java](https://www.java.com/en/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
