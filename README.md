@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi There I'm Jonak 👋
 
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning [Python]("https://www.python.org")
+- 🌱 I’m currently learning [Python]("https://www.python.org/")
 - 👯 I’m looking to collaborate on [YouTube]("")
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
