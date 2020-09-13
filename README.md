@@ -8,6 +8,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
-<div align="left">
+<div align="centert">
     ### Show some ❤️ by starring some of the repositories!
 </div>
