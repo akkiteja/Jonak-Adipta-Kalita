@@ -1,4 +1,4 @@
-### Yo Bois, 🤘
+### Yo Bois, 🤘 Welcome to my Github Profile,
 
 - 🔭 I’m currently working on [YouTube](https://www.youtube.com/)
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [Java](https://www.java.com/en/)
