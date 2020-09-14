@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<div>
 
 ### Show some ❤️ by starring some of the repositories!
 
