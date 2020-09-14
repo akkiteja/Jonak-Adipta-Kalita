@@ -24,6 +24,8 @@
   <img align="left" alt="Jonak's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+[![GitHub Jonak-Adipta-Kalita](https://img.shields.io/github/followers/Jonak-Adipta-Kalita?label=follow&style=social)](https://github.com/Jonak-Adipta-Kalita/)
+
 <br/>
 <br/>
 
