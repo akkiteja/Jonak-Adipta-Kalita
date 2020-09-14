@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love [Sushi](https://en.wikipedia.org/wiki/Sushi) Being an Indian
 
-<a align="center" href="https://github.com/Jonak-Adipta-Kalita">
+<a href="https://github.com/Jonak-Adipta-Kalita">
   <img align="left" alt="Jonak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a><br/>
 
