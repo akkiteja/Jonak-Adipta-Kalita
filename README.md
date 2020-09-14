@@ -10,17 +10,17 @@
 
 <!-- <a href="https://github.com/Jonak-Adipta-Kalita">
   <img align="left" alt="Jonak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> -->
+</a>
 
-<!-- <a href="https://instagram.com/jonakadiptakalita_2596/">
+<a href="https://instagram.com/jonakadiptakalita_2596/">
   <img align="left" alt="Jonak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
+</a>
 
-<!-- <a href="https://discord.gg/txVed7">
+<a href="https://discord.gg/txVed7">
   <img align="left" alt="Jonak's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />
-</a> -->
+</a>
 
-<!-- <a href="https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ?view_as=subscriber/">
+<a href="https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ?view_as=subscriber/">
   <img align="left" alt="Jonak's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
 
