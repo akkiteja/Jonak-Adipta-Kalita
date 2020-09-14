@@ -16,6 +16,8 @@
   <img align="left" alt="Jonak's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<br/>
+
 - 🔭 I’m currently working on [YouTube](https://www.youtube.com/)
 - 🌱 I’m currently learning [Python](https://www.python.org/) and [Java](https://www.java.com/en/)
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/)
